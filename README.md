@@ -39,7 +39,7 @@ Creo en escribir código **limpio**, **escalable** y **modular**, con un enfoque
 
 ## 🧰 Tecnologías que uso
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nestjs,express,mysql,tailwind,git,github,vercel,figma,html,css,sqlserver" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nestjs,express,mysql,tailwind,git,github,vercel,figma,html,css,sqlserver" />
 <img src="https://img.shields.io/badge/Role-Ingeniero%20de%20Sistemas-blue?style=for-the-badge" alt="Ingeniería de Sistemas">
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-brightgreen?style=for-the-badge" alt="Full Stack Developer">
 <img src="https://img.shields.io/badge/Role-Back%20End%20Junior-yellow?style=for-the-badge" alt="Back End Junior">
@@ -55,11 +55,6 @@ Creo en escribir código **limpio**, **escalable** y **modular**, con un enfoque
     src="https://github-readme-stats.vercel.app/api?username=Nicolas200211&theme=radical&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" 
     alt="Estadísticas de GitHub de Nicolas" 
   />
-</p>
-
-<!-- Lenguajes más usados -->
-<h3 align="center">🔝 Lenguajes más utilizados</h3>
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas200211&layout=compact&theme=radical&hide_border=true&langs_count=6" 
     alt="Lenguajes más usados por Nicolas"

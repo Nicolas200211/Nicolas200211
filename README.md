@@ -8,7 +8,7 @@
 <p align="center"> 
 
 ## 🧠 Sobre mí
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nicolas.Nicolas)  
+![visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FNicolas200211.github.io%2Fvisits)
 
 Hola, soy **Nicolas**, un desarrollador apasionado por la tecnología y la innovación.  
 Mi misión es construir soluciones inteligentes, eficientes y visualmente impactantes.

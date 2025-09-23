@@ -94,7 +94,7 @@ Creo en escribir código **limpio**, **escalable** y **modular**, con un enfoque
 Estoy abierto a colaboraciones, propuestas freelance y oportunidades desafiantes 🚀  
 **Correo:**  [nico_e123@outlook.com](nico_e123@outlook.com)  
 **LinkedIn:** [Nicolas Reymundez Retamozo](https://www.linkedin.com/in/mariano-nicolas-reymundez-retamozo-15b57a265/)  
-**Web personal:** [NicolasNova](https://67fd2a3c09dbc5d7a533f6b8--effulgent-daffodil-56ea38.netlify.app/)
+**Web personal:** [NicolasNova](https://nicolas200211.github.io/nova_proyecto/)
 
 ---
 <p align="center" style="font-size:18px"> ⚠️ Este portafolio no es un archivo. Es una puerta al tipo de sistemas que el futuro necesita.</p>

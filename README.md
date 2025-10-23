@@ -1,4 +1,6 @@
-<h1 align="center"> ⚙️ NICOLAS — SOFTWARE ARCHITECT OF TOMORROW ⚙️ </h1> 
+<h1 align="center"> ⚙️ NICOLAS — SOFTWARE ARCHITECT OF TOMORROW ⚙️ 
+<img align="right" src="https://komarev.com/ghpvc/?username=Nicolas200211-jumi&style=for-the-badge">
+</h1>
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER+%7C+SYSTEM+ENGINEER" /> </p> 
 <p align="center"> 

@@ -33,9 +33,9 @@ Creo en escribir código **limpio**, **escalable** y **modular**, con un enfoque
 
 | Proyecto | Descripción | Tecnologías |
 | ------- | ----------- | ----------- |
-| [🔗 La Pontificia Planner](https://github.com/Nicolas/la-pontificia-planner) | Sistema de planificación académica con validación de conflictos | `TypeScript`, `MySQL`, `React`, `Tailwind`, `JWT` |
-| [🔗 Mantaz y Trenzas Web](https://github.com/Nicolas/mantaz-trenzas-web) | Web para empresa artesanal con catálogo dinámico | `HTML`, `CSS`, `JavaScript`, `Firebase` |
-| [🔗 Sistema de Gestión Académica](https://github.com/Nicolas/gestion-academica) | Backend profesional con NestJS, cobertura del 80% y Swagger | `NestJS`, `MySQL`, `Jest`, `Swagger` |
+| [🔗 Web Turismo ](https://turismo-nov.vercel.app/) | Sistema de planificación académica con validación de conflictos | `TypeScript`, `MySQL`, `React`, `Tailwind`, `JWT` |
+| [🔗 Sistema Escolar](https://frontend-scool.vercel.app/auth/login) | Web para empresa artesanal con catálogo dinámico | `HTML`, `CSS`, `JavaScript`, `Firebase` |
+| [🔗 Sistema de Gestión Restaurant](https://sistema-abocado-frontend.vercel.app/) | Backend profesional con NestJS, cobertura del 80% y Swagger | `NestJS`, `MySQL`, `Jest`, `Swagger` |
 
 ---
 
